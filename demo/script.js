@@ -1,0 +1,1 @@
+$(window).on("scroll",(function(){$(this).scrollTop()>150?$(".navbar").addClass("navbar-fixed"):$(".navbar").removeClass("navbar-fixed")}));

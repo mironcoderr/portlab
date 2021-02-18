@@ -1,4 +1,1 @@
-
-
-// FOR PORTFOLIO ITEM 
-var mixer = mixitup('.port-parent');
+var mixer=mixitup(".port-parent");
